@@ -1,26 +1,18 @@
-# the_millionaire
+# AppQuiz-2
 
-A new Flutter project.
+### ScreenShots
+  <div>
+    <img src="https://github.com/Flutter-Project-Challenges/AppQuiz-2/blob/master/assets/screenShots/Screenshot_1.png" width="150" height="300">
+    <img src="https://github.com/Flutter-Project-Challenges/AppQuiz-2/blob/master/assets/screenShots/Screensho_2.png" width="150" height="300">
+    <img src="https://github.com/Flutter-Project-Challenges/AppQuiz-2/blob/master/assets/screenShots/Screenshot_3.png" width="150" height="300" >
+    <img src="https://github.com/Flutter-Project-Challenges/AppQuiz-2/blob/master/assets/screenShots/Screenshot_4.png" width="150" height="300" >
+    <img src="https://github.com/Flutter-Project-Challenges/AppQuiz-2/blob/master/assets/screenShots/Screenshot_5.png" width="150" height="300" >
+    <img src="https://github.com/Flutter-Project-Challenges/AppQuiz-2/blob/master/assets/screenShots/Screenshot_6.png" width="150" height="300" >
+    
+   
+  </div>  
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-[]
-## Who Wants to Be a Millionaire?
-
-It is a mobile application using Flutter and Dart, to simulate the famous game.
 # The Game Roules:
-
 - This Game have some of roules:
     - a user have tow helping button. 
     The first one is 50/50 that can remove tow option.
@@ -32,14 +24,10 @@ if the balance grater then or equale 1000  it will get 1000
 if less than 1000 it will get nothing 
 
 
-
-
-
-
 ## Team members: 
 
-Kholoud Abdulrahman Aljedaani
-Nouf Awadh Alharthi
-Aisha Mohamed F Alsaedi
+Kholoud Abdulrahman Aljedaani,
+Nouf Awadh Alharthi,
+Aisha Mohamed F Alsaedi.
 
 
